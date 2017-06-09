@@ -14,7 +14,7 @@ int write(long file, char *str, long len){
     return 1;
 }
 void exit(long exitcode){
-    write(1, "\nexiting\n", 9);
+    write(1, "\nExiting\n", 9);
     asm("movq $0x3C, %%rax\n\t"
         "movq %0, %%rdi\n\t"
         "syscall"

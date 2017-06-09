@@ -11,7 +11,7 @@ LIBS = -lgcc
 all: $(objects)
 	$(CC) $(CFLAGS) $(LIBS) $(objects) -o $(PROJECT_NAME)
 asm: $(objects)
-	$(CC) -S sssg.c
+	$(CC) -S sag.c
 
 include $(sources:.c=.d)
 
