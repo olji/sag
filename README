@@ -1,4 +1,4 @@
-# SSSG
+# SAG
 
 This is the best(pun intended) program you've ever seen.
 
@@ -7,3 +7,22 @@ Actually, it's likely horrible and broken. Hence it's proprietary.
 If you really want to use it, consider calling __1-800-DON'T-CUT__ first, in order to get information of better choices in life.
 
 Other than that I can't really help you.
+
+## FEATURES
+1. Unoptimised code
+1. Minimal code
+1. Minimal functionality
+1. Do one thing and do it schnell.
+1. Hardcoded directories
+1. Something that can be done much much easier using a shell script
+
+_BUT MARK, I DON'T HAVE AN EDITOR TO WRITE THE SCRIPT WITH_
+
+Never fear: [\\\?](http://ftp.acc.umu.se/mirror/gnu.org/gnu/ed/)
+
+## DEPENDENCIES
+1. Linux
+1. Linux x86_64
+1. Linux x86_64 with a page size of 4096 (Can be changed in syscalls.h)
+1. GCC I guess
+1. Nothing better to do with your life
