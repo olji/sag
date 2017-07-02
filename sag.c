@@ -2,6 +2,8 @@
 #include "syscalls.h"
 #include "str.h"
 #include "io.h"
+
+#define PAGE_SIZE 4096
 int main(int, char**);
 
 void _start(){
